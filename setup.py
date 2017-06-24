@@ -112,6 +112,7 @@ install_requires = [
      'invenio-files-rest>=1.0.0a14,<1.1.0',
      'invenio-previewer>=1.0.0a10,<1.1.0',
      'invenio-records-files>=1.0.0a8,<1.1.0',
+     'invenio-deposit>=1.0.0a8,<1.1.0',
     # MARC21-based ILS
     'invenio-app>=1.0.0a1,<1.1.0',
     'invenio-marc21>=1.0.0a5,<1.1.0',
