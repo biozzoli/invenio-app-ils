@@ -92,6 +92,8 @@ install_requires = [
     'invenio-mail>=1.0.0b1,<1.1.0',
     'invenio-rest[cors]>=1.0.0a10,<1.1.0',
     'invenio-theme>=1.0.0b2,<1.1.0',
+    'invenio-rest>=1.0.0a10,<1.1.0', 
+    'invenio-webhooks>=1.0.0a4,<1.1.0',	
     # Auth bundle
     'invenio-access>=1.0.0a11,<1.1.0',
     'invenio-accounts>=1.0.0b3,<1.1.0',
